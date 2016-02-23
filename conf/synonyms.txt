@@ -1,0 +1,160 @@
+# -----------------------------------------------------------------------
+# common terms
+# -----------------------------------------------------------------------
+
+1st, first
+2nd, second
+3rd, third
+4th, fourth
+5th, fifth
+1, one
+2, two
+3, three
+4, four
+5, five
+6, six
+7, seven
+8, eight
+9, nine
+10, ten
+100, hundred
+1000, thousand
+jan, january
+feb, february
+mar, march
+apr, april
+jun, june
+jul, july
+aug, august
+sept, september
+oct, october
+nov, november
+dec, december
+mon, monday
+tues, tuesday
+wed, wednesday, midweek, mid-week
+thurs, thursday
+fri, friday
+sat, saturday
+sun, sunday
+holiday, vacation
+die, decease, perish, pass away, croak, death
+dangerous, unsafe
+tv, television, televisions
+lawyer, attorney
+
+# -----------------------------------------------------------------------
+# american / british terms
+# -----------------------------------------------------------------------
+
+gray, grey
+capitalization, capitalisation
+behavior, behaviour
+color, colour
+labor, labour
+center, centre, midpoint
+fiber, fibre
+liter, litre
+theater, theatre, cinema
+analyze, analyse
+defense, defence
+license, licence
+offense, offence
+mailbox, postbox
+zip code, postcode
+
+# -----------------------------------------------------------------------
+# MOM Specific terms
+# -----------------------------------------------------------------------
+
+avc, average variable component
+ame, average monthly earnings
+aws, annual wage supplement
+bca, building and construction authority
+bus, business under surveillance
+cea, certificate of employment agency
+cei, certificate of employment intermediaries
+cet, continuing education and training
+cpf, central provident fund
+cpf life, cpf lifelong income for the elderly
+cs, contact singapore
+dc, dependency ceiling
+dp, dependant's pass
+dps, demerit points system
+fdw, foreign domestic worker
+fw, foreign worker
+e2i, employment and employability institute
+edb, economic development board
+efma, employment of foreign manpower act
+ep, employment pass
+epol, ep online, employment pass online
+epsc, employment pass services centre
+esol, employment standards online
+ess, employability skills system
+ipa, in-principal approval
+ips, in-principle support
+ie, international enterprise singapore
+iras, inland revenue authority of singapore
+loc, letter of consent
+ltvp, long term visit pass
+ltp, long term pass
+lww, low-wage workers
+mom, ministry of manpower
+momsc, mom services centre
+mvc, monthly variable component
+mye, man-year entitlement
+nea, national environment agency
+nwc, national wages council
+nas, north asian source
+ntuc, national trade union congress
+nts, non-traditional source
+obls, online business licensing service
+ofwas, online foreign workers address system
+osh, occupational safety and health
+oshd, occupational safety and health division
+# pa, prior approval
+pcp, professional conversion programme
+pep, personalised employment pass
+pmes, professionals
+pmets, professionals
+psp, professional skills programme
+pspt, professional skills programme traineeship
+scdf, singapore civil defence force
+sdf, skills development fund
+sec, skills evaluation certificate
+slf, singapore labour foundation
+smes, small and medium enterprises
+snef, singapore national employers federation
+spring, standards
+spur, skills programme for upgrading and resilience
+tafep, tripartite alliance for fair and progressive employment practices
+tiwg, tripartite implementation workgroup
+ts, traditional source
+ura, urban redevelopment authority
+wda, singapore workforce development agency
+wica, work injury compensation act
+wici, work injury compensation insurance
+wis, workfare income supplement
+wp, work permit
+wpar, work pass account registration
+wpol, wp online, work permit online
+wpsc, work permit services centre
+wsh, workplace safety and health
+wshc, workplace safety and health council
+wsq, workforce skills qualification
+ep, employment pass
+wic, wica
+ea directory, eadirectory, employment agency search, ea search, employment agency directory, employment agencies directory
+ea personnel, other ea personnel
+key account holder, kah, kahs, key account holders
+eponline, ep online
+wponline, wp online
+eas, employment agencies
+die, passed away, deceased, death
+6m, six-monthly, 6 monthly
+spass, s-pass, s pass
+child care, childcare
+
+# -----------------------------------------------------------------------
+# replace terms on LHS with terms on RHS
+# -----------------------------------------------------------------------

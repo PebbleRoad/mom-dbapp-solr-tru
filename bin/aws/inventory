@@ -1,0 +1,2 @@
+[web]
+52.76.48.148 ansible_ssh_user=ubuntu

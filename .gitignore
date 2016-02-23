@@ -1,0 +1,5 @@
+.DS_Store
+data/
+conf/_rest_managed.json
+conf/_schema_analysis_stopwords_english.json
+conf/_schema_analysis_synonyms_english.json

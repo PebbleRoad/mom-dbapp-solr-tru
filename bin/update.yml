@@ -1,0 +1,9 @@
+---
+- hosts: web
+  gather_facts: false
+  # sudo: true
+  vars_files:
+    - settings.yml
+
+  roles:
+    - { role: update-solr-configs, tags: [ 'update' ] }
